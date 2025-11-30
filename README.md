@@ -6,3 +6,4 @@
 ✨ Siempre curiosa, explorando nuevas tecnologías y secretos de la ciencia  
 💌 Si te apasiona la tech, la ciencia o los experimentos curiosos, ¡aquí podemos compartir ideas!
 
+[![Lucia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luciia130)](https://github.com/Luciia130/github-readme-stats)
