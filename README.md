@@ -1,5 +1,5 @@
 <!-- Introducción -->
-## ¡Hola, soy Lucía!
+## 🌙 ¡Hola, soy Lucía!
 👩🏻‍🎓 Estudiante de Desarrollo de Aplicaciones Web en Málaga </br>
 🌷 Mis intereses se mueven entre la tecnología, la biología y la medicina </br>
 ✨ Siempre curiosa, explorando nuevas tecnologías y secretos de la ciencia </br>
